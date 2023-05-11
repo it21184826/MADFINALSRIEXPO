@@ -54,7 +54,7 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity1"
-            android:exported="true"/>
+            android:exported="false"/>
         <activity
             android:name=".SellarActivity"
             android:exported="true">
