@@ -27,6 +27,7 @@
 
 
 
+
 <!--Moshi-->
     <string name="hi_n_please_login" translatable="false">Hi,\n Please Login</string>
     <string name="enter_your_email_address" translatable="false">Enter Your Email Address</string>
@@ -47,6 +48,7 @@
     <string name="home" translatable="false">Home</string>
 
 <!--    Imalka-->
+
     <string name="hint_last_name1">Business ID </string>
     <string name="hint_first_name1">Organization Name</string>
     <string name="hint_first_id1">Phone Number</string>
