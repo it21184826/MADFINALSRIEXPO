@@ -26,4 +26,15 @@
     <string name="first_name">First Name</string>
 
 
+
+<!--    Imalka-->
+    <string name="hint_last_name1">Business ID </string>
+    <string name="hint_first_name1">Organization Name</string>
+    <string name="hint_first_id1">Phone Number</string>
+    <string name="last_name1">Registration No:</string>
+    <string name="nic1">Phone Number :</string>
+    <string name="view_list1">View Packages</string>
+    <string name="first_name1">Organization Name</string>
+
+
 </resources>
