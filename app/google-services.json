@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60483448834",
+    "firebase_url": "https://sriexpo-56b07-default-rtdb.firebaseio.com",
+    "project_id": "sriexpo-56b07",
+    "storage_bucket": "sriexpo-56b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60483448834:android:b4e23994ba94c40b39b71b",
+        "android_client_info": {
+          "package_name": "com.example.sriexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60483448834-5jo63gc75p38i1notbd9841hk1spth0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sriexpo",
+            "certificate_hash": "d31855d46153c2ffa83951c868baa46217cfd585"
+          }
+        },
+        {
+          "client_id": "60483448834-ve7lcsa7j2albf6f9abjki2d47fv7d83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDB_DAueCkBpWWXxgUCBsfQpAsykT7yt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60483448834-ve7lcsa7j2albf6f9abjki2d47fv7d83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
