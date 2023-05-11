@@ -26,7 +26,29 @@
     <string name="first_name">First Name</string>
 
 
-    <!--    Imalka-->
+
+
+<!--Moshi-->
+    <string name="hi_n_please_login" translatable="false">Hi,\n Please Login</string>
+    <string name="enter_your_email_address" translatable="false">Enter Your Email Address</string>
+    <string name="enter_your_name" translatable="false">Enter Your Name</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="user_nprofile" translatable="false">User\nProfile</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="email_address" translatable="false">Email Address</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="phone_number" translatable="false">Phone N0</string>
+    <string name="enter_your_password" translatable="false">Enter Your Password</string>
+    <string name="Password" translatable="false">Password</string>
+    <string name="UPDATE" translatable="false">UPDATE PROFILE</string>
+    <string name="DELETE" translatable="false">DELETE PROFILE</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="Todo" translatable="false">TODO</string>
+    <string name="start" translatable="false">START</string>
+    <string name="home" translatable="false">Home</string>
+
+<!--    Imalka-->
+
     <string name="hint_last_name1">Business ID </string>
     <string name="hint_first_name1">Organization Name</string>
     <string name="hint_first_id1">Phone Number</string>
@@ -34,6 +56,7 @@
     <string name="nic1">Phone Number :</string>
     <string name="view_list1">View Packages</string>
     <string name="first_name1">Organization Name</string>
+
 
 
 </resources>

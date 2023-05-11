@@ -16,4 +16,10 @@
     <color name="colorPrimaryText">#E4ECE1</color>
     <color name="colorSecondaryText">#5F7561</color>
 
+    <color name="red">#F44156</color>
+    <color name="New">#3dad77</color>
+    <color name="background_green">#D2EEE7</color>
+    <color name="transparent">#00000000</color>
+    <color name="underline">#D8D6D6</color>
+
 </resources>
