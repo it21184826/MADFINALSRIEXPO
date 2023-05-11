@@ -19,7 +19,6 @@
             android:exported="false" />
 
         <activity
-
             android:name=".UserProfileActivity"
             android:exported="false" />
         <activity
@@ -27,7 +26,6 @@
             android:exported="false" />
         <activity
             android:name=".ViewItemActivity"
-
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
