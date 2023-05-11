@@ -26,8 +26,7 @@
     <string name="first_name">First Name</string>
 
 
-
-<!--    Imalka-->
+    <!--    Imalka-->
     <string name="hint_last_name1">Business ID </string>
     <string name="hint_first_name1">Organization Name</string>
     <string name="hint_first_id1">Phone Number</string>
