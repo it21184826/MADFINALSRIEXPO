@@ -32,6 +32,29 @@
         <activity
             android:name=".AdditemActivity"
             android:exported="false" />
+
+
+        <activity
+            android:name=".LoginActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".ItemDetailsActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".DisplayitemActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".AdditemActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity1"
+            android:exported="true"/>
         <activity
             android:name=".SellarActivity"
             android:exported="true">
